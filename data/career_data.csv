@@ -1,0 +1,901 @@
+python,java,sql,html,css,javascript,ml,statistics,communication,career
+1,1,1,0,0,0,1,1,1,Data Scientist
+1,1,1,0,0,0,0,0,0,Backend Developer
+0,0,0,1,0,1,0,0,1,Frontend Developer
+1,1,1,0,1,1,0,0,0,Software Developer
+0,0,1,0,0,1,0,0,1,Java Developer
+1,1,1,0,0,1,0,0,0,Software Developer
+1,1,1,0,0,0,0,0,1,Backend Developer
+1,1,1,1,0,0,0,0,0,Backend Developer
+1,0,0,0,0,0,0,0,1,Python Developer
+1,0,1,1,0,0,0,0,1,Python Developer
+1,0,1,1,1,1,0,0,1,Full Stack Developer
+1,1,1,1,0,1,1,0,1,Software Developer
+1,0,1,0,0,0,0,1,1,Python Developer
+1,1,1,0,0,1,1,1,1,Data Scientist
+1,0,1,1,1,1,0,0,1,Full Stack Developer
+0,1,1,0,1,0,0,0,1,Java Developer
+1,0,1,0,0,1,1,1,1,Data Analyst
+1,0,1,0,1,1,0,1,0,Python Developer
+1,1,1,0,1,0,0,0,1,Python Developer
+0,0,1,1,1,1,0,0,1,Full Stack Developer
+1,1,0,0,0,0,1,1,1,AI/ML Engineer
+1,1,1,0,0,0,0,0,1,Backend Developer
+0,1,1,0,0,1,1,0,1,Java Developer
+1,0,1,0,0,0,1,0,1,Python Developer
+0,1,1,0,0,0,0,0,1,Java Developer
+1,0,1,0,0,0,0,0,1,Python Developer
+0,0,1,0,0,1,0,1,0,Data Analyst
+0,0,0,1,1,1,0,0,1,Frontend Developer
+1,0,1,1,0,0,0,1,1,Python Developer
+0,0,0,1,1,1,1,0,1,Frontend Developer
+1,0,1,0,1,0,0,1,0,Data Analyst
+1,0,0,1,0,0,1,1,1,AI/ML Engineer
+1,1,1,0,0,0,1,1,1,Data Scientist
+1,0,1,0,0,1,1,1,1,Data Scientist
+1,0,1,0,0,0,1,1,0,Data Scientist
+1,1,1,0,1,1,0,1,1,Software Developer
+1,0,1,0,0,1,0,0,1,Python Developer
+1,0,0,1,0,0,1,1,1,AI/ML Engineer
+1,0,1,0,0,1,1,1,1,Data Analyst
+1,0,1,1,0,0,1,1,1,Data Scientist
+1,1,1,0,1,0,0,0,1,Java Developer
+1,0,0,0,0,0,1,1,0,Data Scientist
+1,1,1,0,0,0,0,0,1,Python Developer
+1,0,1,1,0,0,0,1,1,Data Analyst
+1,0,0,0,0,1,1,1,0,AI/ML Engineer
+0,0,0,1,1,1,0,0,1,Frontend Developer
+1,1,1,0,1,0,0,0,1,Backend Developer
+0,1,1,0,0,1,0,0,1,Java Developer
+1,0,1,0,0,0,1,1,1,AI/ML Engineer
+1,1,1,0,0,1,0,0,0,Software Developer
+0,0,1,0,0,0,1,0,1,Java Developer
+0,0,0,1,1,1,0,0,1,Frontend Developer
+0,0,1,1,1,1,1,0,0,Full Stack Developer
+1,0,0,0,0,0,1,1,0,AI/ML Engineer
+1,0,0,0,0,0,0,0,1,Python Developer
+0,1,1,1,1,1,0,0,1,Full Stack Developer
+0,1,1,0,0,0,0,0,1,Java Developer
+0,1,1,0,0,0,0,0,1,Java Developer
+1,0,1,0,0,0,0,1,1,Data Analyst
+1,1,1,0,0,1,0,0,0,Software Developer
+1,0,1,0,0,0,1,0,1,Backend Developer
+0,0,0,1,1,1,0,0,0,Frontend Developer
+1,0,1,0,0,0,0,0,1,Python Developer
+1,1,1,0,0,1,0,0,1,Software Developer
+1,0,0,0,0,1,1,1,1,AI/ML Engineer
+1,0,0,0,1,0,0,1,1,Data Analyst
+1,0,0,0,0,0,1,1,0,AI/ML Engineer
+1,0,0,0,0,0,0,1,1,AI/ML Engineer
+0,0,1,1,1,1,0,1,1,Full Stack Developer
+0,0,1,1,1,1,0,1,1,Full Stack Developer
+1,1,1,1,0,1,0,0,1,Software Developer
+0,0,1,0,0,0,0,1,1,Data Analyst
+1,0,0,1,1,1,0,0,1,Frontend Developer
+0,0,1,1,1,1,0,0,0,Full Stack Developer
+1,1,1,0,0,0,0,1,0,Data Analyst
+1,0,1,0,0,0,0,1,0,Python Developer
+1,0,1,0,0,0,0,0,1,Python Developer
+1,0,1,0,1,0,1,1,1,Data Scientist
+0,0,1,1,1,1,0,0,0,Full Stack Developer
+1,1,1,0,0,1,0,0,1,Software Developer
+1,0,1,0,0,1,1,1,1,Data Scientist
+1,1,1,0,0,0,0,0,1,Backend Developer
+1,0,1,0,0,1,1,1,1,Data Analyst
+1,0,0,1,1,1,0,0,0,Frontend Developer
+1,0,1,0,0,0,1,1,1,Data Analyst
+0,0,1,1,1,1,0,0,1,Full Stack Developer
+1,0,1,0,0,0,0,0,1,Python Developer
+1,1,1,0,0,1,0,0,1,Software Developer
+0,1,1,0,0,0,0,1,1,Java Developer
+0,1,1,0,0,0,0,1,0,Java Developer
+1,1,1,1,0,0,0,0,1,Backend Developer
+1,0,1,0,0,0,0,1,1,Data Analyst
+0,0,0,1,1,1,0,0,1,Frontend Developer
+0,1,1,0,0,1,0,0,1,Java Developer
+0,1,1,0,0,0,0,0,1,Java Developer
+1,0,1,1,0,1,1,1,0,Data Analyst
+1,0,1,0,0,0,1,1,1,Data Scientist
+1,1,1,0,0,1,0,0,0,Software Developer
+1,1,1,0,0,1,0,0,1,Software Developer
+1,1,1,0,0,1,0,0,0,Backend Developer
+0,0,0,1,0,1,0,0,1,Frontend Developer
+1,0,1,0,0,0,0,0,1,Python Developer
+1,0,1,0,1,0,0,0,1,Python Developer
+1,0,1,1,1,0,1,0,1,Python Developer
+0,0,1,1,1,1,0,0,0,Full Stack Developer
+1,0,1,0,1,0,0,0,1,Python Developer
+1,0,1,0,0,0,0,1,1,Data Analyst
+1,1,0,0,1,0,0,1,1,Data Analyst
+1,0,1,0,0,0,0,0,0,Python Developer
+1,0,1,0,0,0,0,0,1,Python Developer
+1,1,1,0,0,0,0,1,1,Backend Developer
+0,1,0,0,0,0,0,0,1,Java Developer
+1,0,1,0,0,1,1,1,0,Data Scientist
+1,0,1,0,0,0,0,1,1,Data Analyst
+1,0,1,0,0,0,0,0,1,Python Developer
+1,0,0,0,0,0,1,1,1,AI/ML Engineer
+1,0,1,0,0,0,0,0,1,Python Developer
+0,0,0,0,0,1,1,1,1,AI/ML Engineer
+0,0,1,1,1,1,0,1,1,Full Stack Developer
+1,0,0,0,1,0,1,1,1,AI/ML Engineer
+1,0,1,1,0,0,1,1,0,Data Analyst
+1,0,1,0,0,0,0,0,0,Python Developer
+1,0,1,0,1,0,1,1,1,AI/ML Engineer
+0,0,1,1,1,1,1,0,1,Full Stack Developer
+1,1,1,1,1,0,1,0,1,Data Analyst
+0,1,1,0,0,0,0,0,1,Java Developer
+1,0,0,0,0,0,1,1,1,AI/ML Engineer
+1,0,1,0,0,0,1,1,1,Data Scientist
+0,1,1,0,1,0,0,0,1,Java Developer
+1,0,1,0,0,0,0,0,1,Python Developer
+0,1,1,0,0,0,0,1,0,Java Developer
+1,0,1,0,0,0,1,1,1,Data Scientist
+1,1,1,0,0,1,0,0,1,Software Developer
+0,1,0,1,1,1,0,0,1,Frontend Developer
+1,1,1,0,0,0,1,1,1,AI/ML Engineer
+1,1,1,0,0,0,0,0,1,Backend Developer
+0,1,1,0,0,0,0,0,1,Java Developer
+1,1,1,0,0,1,0,0,1,Software Developer
+1,1,1,0,0,1,0,0,1,Backend Developer
+1,1,1,0,0,1,0,1,1,Data Analyst
+1,1,0,0,0,0,0,0,0,Java Developer
+1,1,1,1,0,0,1,1,1,Data Scientist
+1,0,1,0,0,0,0,0,0,Python Developer
+1,0,1,0,0,1,0,0,1,Python Developer
+0,0,0,1,1,0,0,0,1,Frontend Developer
+0,0,1,1,1,1,0,0,1,Full Stack Developer
+1,1,1,0,0,0,1,0,1,Java Developer
+1,0,1,0,0,0,1,1,1,Data Scientist
+0,0,0,1,1,1,1,1,1,Frontend Developer
+1,1,1,0,0,0,0,0,1,Backend Developer
+1,1,1,0,1,1,0,0,1,Software Developer
+0,0,0,1,1,1,0,0,1,Frontend Developer
+1,1,1,0,0,1,1,0,1,Software Developer
+1,0,1,0,0,0,1,1,1,Data Scientist
+1,0,1,1,0,0,0,1,1,Data Analyst
+1,1,0,0,0,0,1,1,1,AI/ML Engineer
+0,0,0,1,1,1,0,0,1,Frontend Developer
+1,1,1,0,0,1,0,0,0,Software Developer
+1,0,1,1,1,0,1,1,1,AI/ML Engineer
+1,1,1,0,0,1,0,0,0,Software Developer
+1,1,1,1,0,0,0,0,1,Backend Developer
+1,0,1,1,0,0,0,0,1,Python Developer
+0,0,1,1,1,0,0,0,1,Full Stack Developer
+0,0,0,1,1,1,0,0,0,Frontend Developer
+0,1,0,0,1,1,0,0,1,Frontend Developer
+1,1,1,0,0,0,0,0,0,Data Analyst
+1,0,1,0,0,0,0,0,0,Python Developer
+1,1,0,1,0,0,1,1,0,Data Analyst
+1,1,1,0,1,1,0,0,1,Software Developer
+0,1,0,0,1,1,1,0,1,Frontend Developer
+1,1,1,0,1,0,1,1,1,Data Scientist
+0,1,1,0,1,0,0,0,1,Java Developer
+1,0,0,1,1,1,0,0,1,Frontend Developer
+0,0,1,1,0,1,0,0,1,Full Stack Developer
+1,1,1,0,0,1,1,0,1,Software Developer
+0,1,1,0,0,1,0,0,0,Backend Developer
+0,0,1,1,1,1,0,0,0,Full Stack Developer
+1,1,1,1,0,0,0,0,1,Backend Developer
+1,1,1,0,0,1,0,1,0,Software Developer
+1,0,1,0,0,0,0,0,1,Python Developer
+0,1,1,0,0,1,0,0,1,Java Developer
+1,0,0,1,1,1,0,1,1,Frontend Developer
+1,0,1,0,1,0,0,1,1,Data Analyst
+1,0,1,0,0,0,1,1,1,Data Analyst
+1,1,1,0,1,0,0,1,1,Data Analyst
+1,1,1,0,0,1,0,0,1,Software Developer
+0,1,1,0,0,0,0,0,1,Java Developer
+0,1,1,0,0,0,0,1,1,Java Developer
+0,0,0,0,0,0,1,0,1,AI/ML Engineer
+1,0,0,0,0,0,1,1,1,AI/ML Engineer
+1,0,1,0,0,0,1,1,0,Data Scientist
+1,0,0,0,0,0,0,1,1,AI/ML Engineer
+0,0,1,1,1,1,0,0,1,Full Stack Developer
+1,0,1,1,1,1,0,0,0,Full Stack Developer
+1,1,1,0,0,0,1,1,1,Data Analyst
+1,0,1,0,1,0,1,1,1,Data Scientist
+1,1,1,0,0,1,0,1,1,Data Scientist
+1,1,1,0,0,1,0,0,0,Software Developer
+0,1,1,0,0,0,0,0,1,Java Developer
+0,1,1,0,0,1,0,0,1,Java Developer
+1,1,1,0,0,1,0,0,1,Software Developer
+1,0,1,1,1,0,1,1,1,Data Scientist
+1,0,1,0,0,0,1,1,0,Data Scientist
+0,0,1,0,0,1,1,1,0,Data Scientist
+0,0,0,1,1,1,1,0,1,Frontend Developer
+1,0,1,1,0,0,1,0,1,Data Scientist
+0,0,0,1,1,1,0,0,1,Frontend Developer
+1,1,0,0,0,0,1,1,0,AI/ML Engineer
+1,0,1,0,0,0,1,1,1,Data Scientist
+0,1,0,0,1,1,0,0,0,Software Developer
+1,1,1,1,0,1,0,0,0,Software Developer
+1,1,1,0,0,1,0,0,0,Software Developer
+0,1,1,0,0,1,0,0,1,Java Developer
+1,1,1,0,0,0,0,1,0,Backend Developer
+1,1,1,0,0,0,0,0,0,Python Developer
+0,0,0,1,1,1,0,1,1,Frontend Developer
+1,0,1,0,1,0,0,0,1,Python Developer
+1,0,1,1,0,0,1,1,0,AI/ML Engineer
+0,0,0,1,1,1,1,0,1,Frontend Developer
+1,0,1,1,0,1,0,0,1,Python Developer
+1,1,1,0,0,0,0,0,1,Python Developer
+1,0,1,0,1,0,0,0,1,Python Developer
+1,0,1,1,1,1,0,1,1,Full Stack Developer
+1,0,1,0,0,0,0,0,1,Python Developer
+1,0,0,0,1,0,1,1,1,AI/ML Engineer
+1,0,1,0,0,0,0,1,1,Data Analyst
+1,0,1,0,0,0,0,1,1,Data Analyst
+0,0,1,0,0,0,0,1,1,Python Developer
+1,0,1,0,0,0,0,1,1,Data Analyst
+1,1,1,1,0,0,0,0,1,Backend Developer
+1,1,1,0,1,0,0,0,1,Backend Developer
+1,0,0,0,0,1,1,1,0,AI/ML Engineer
+1,0,0,1,0,0,1,1,1,AI/ML Engineer
+1,0,1,0,1,0,1,1,0,AI/ML Engineer
+0,1,1,1,1,0,1,0,1,Frontend Developer
+1,1,1,0,0,0,0,0,1,Backend Developer
+0,1,1,0,0,0,1,0,1,Java Developer
+1,0,1,0,0,0,0,1,1,Data Analyst
+0,1,1,0,0,0,0,1,1,Java Developer
+1,0,1,0,1,0,1,1,1,AI/ML Engineer
+1,0,1,0,0,1,0,0,1,Software Developer
+1,0,1,0,0,0,1,1,1,Data Scientist
+1,0,1,0,0,0,0,1,1,Python Developer
+1,0,0,0,0,0,1,1,1,AI/ML Engineer
+1,1,1,0,0,0,1,0,1,Backend Developer
+1,1,1,0,0,0,0,0,1,Python Developer
+1,0,0,1,1,1,0,0,1,Frontend Developer
+0,1,1,0,0,0,0,0,1,Java Developer
+1,0,1,0,0,0,1,1,0,Data Analyst
+1,1,1,0,0,0,0,0,0,Python Developer
+1,1,1,1,0,0,0,0,1,Backend Developer
+0,1,1,0,1,0,0,0,1,Java Developer
+0,0,1,0,0,0,1,1,0,AI/ML Engineer
+0,1,1,0,0,0,0,0,0,Java Developer
+1,0,0,0,0,0,1,1,1,AI/ML Engineer
+1,1,1,0,0,0,0,0,1,Backend Developer
+1,1,1,0,0,1,0,1,1,Software Developer
+1,0,0,0,0,0,1,1,1,AI/ML Engineer
+1,0,0,1,1,0,1,1,1,AI/ML Engineer
+1,1,1,0,0,0,0,0,1,Backend Developer
+1,0,1,0,0,1,1,0,1,Python Developer
+1,0,1,0,0,0,1,1,1,Data Scientist
+0,0,1,1,1,1,0,1,0,Full Stack Developer
+1,1,1,0,1,1,0,0,1,Software Developer
+0,1,1,0,0,1,0,0,1,Software Developer
+1,1,1,0,0,1,1,0,0,Software Developer
+1,1,1,0,0,1,0,0,0,Software Developer
+1,1,1,0,0,0,0,1,1,Data Analyst
+0,0,1,0,1,1,1,1,1,Full Stack Developer
+1,1,1,1,0,1,0,0,1,Software Developer
+1,0,0,0,0,0,1,1,1,AI/ML Engineer
+1,0,1,0,1,1,1,0,0,Full Stack Developer
+1,1,1,0,1,1,0,0,1,Software Developer
+1,1,1,0,0,0,0,0,1,Python Developer
+0,1,1,0,1,1,0,0,1,Frontend Developer
+1,1,1,0,0,0,0,1,1,Backend Developer
+0,0,1,1,1,0,0,0,1,Frontend Developer
+1,1,1,0,1,1,0,0,1,Software Developer
+0,0,1,1,1,1,0,0,0,Full Stack Developer
+1,0,1,0,0,1,0,1,0,Data Analyst
+1,0,0,0,0,0,1,1,1,AI/ML Engineer
+1,0,1,1,1,1,0,1,1,Data Analyst
+0,1,0,0,0,0,1,1,1,AI/ML Engineer
+0,1,1,0,0,0,0,0,1,Java Developer
+1,0,0,0,0,0,1,1,1,Data Scientist
+0,0,0,0,0,1,1,1,0,AI/ML Engineer
+0,1,0,1,1,1,0,0,1,Frontend Developer
+1,0,1,0,1,0,0,1,1,Data Analyst
+1,1,0,0,0,0,1,0,1,AI/ML Engineer
+1,0,1,0,0,0,0,1,0,Data Analyst
+1,0,0,0,0,0,1,0,1,AI/ML Engineer
+0,1,1,0,0,1,0,0,1,Java Developer
+0,0,0,1,1,1,0,0,1,Frontend Developer
+1,1,1,0,1,0,0,0,1,Backend Developer
+1,0,1,0,0,0,1,1,0,AI/ML Engineer
+1,1,1,0,0,1,0,0,1,Java Developer
+0,0,1,1,0,1,0,0,1,Full Stack Developer
+1,0,0,0,0,0,0,1,1,Data Analyst
+1,0,1,1,1,1,0,0,0,Frontend Developer
+1,1,1,0,0,1,1,0,1,Software Developer
+1,0,1,1,0,1,1,0,1,Frontend Developer
+0,1,1,0,0,0,0,0,1,Java Developer
+1,0,1,0,0,0,0,1,1,Data Analyst
+1,0,1,0,1,0,0,0,1,Python Developer
+1,0,0,0,0,0,1,1,1,AI/ML Engineer
+1,0,1,0,0,1,1,0,1,Python Developer
+1,0,1,0,0,0,0,0,1,Python Developer
+0,0,1,0,0,0,0,0,1,Java Developer
+1,0,1,0,0,0,0,1,1,Data Analyst
+1,1,1,0,0,0,0,1,0,Data Analyst
+0,1,1,0,0,0,0,1,1,Java Developer
+1,0,0,0,0,1,1,1,1,Data Scientist
+0,1,1,1,1,1,0,0,1,Full Stack Developer
+1,1,1,0,0,1,0,1,1,Software Developer
+0,0,0,1,1,1,0,0,1,Frontend Developer
+1,0,1,0,1,0,0,1,1,Data Analyst
+1,1,1,0,0,0,0,1,0,Data Analyst
+1,0,1,0,0,0,0,0,1,Python Developer
+1,1,1,0,0,1,0,0,1,Python Developer
+1,1,1,0,1,1,0,0,0,Software Developer
+1,0,1,0,0,0,1,0,1,Data Scientist
+0,1,1,0,0,0,0,0,1,Java Developer
+1,1,1,0,0,1,1,0,1,Software Developer
+1,1,1,0,0,0,0,0,1,Backend Developer
+1,0,1,1,0,1,0,1,0,Full Stack Developer
+1,0,1,1,0,0,1,1,1,Data Scientist
+1,1,1,0,0,1,0,1,1,Software Developer
+1,1,1,0,1,0,1,0,1,Java Developer
+1,1,1,1,1,1,0,0,0,Full Stack Developer
+0,1,0,1,1,1,0,0,1,Frontend Developer
+1,0,1,0,0,0,0,0,1,Data Analyst
+1,0,1,0,0,0,1,1,1,Data Scientist
+1,1,1,1,1,1,0,0,1,Full Stack Developer
+1,1,1,0,0,1,0,0,1,Software Developer
+1,0,1,1,1,0,0,1,1,Data Analyst
+1,1,1,0,0,0,1,1,1,Data Scientist
+0,0,1,1,1,1,0,0,0,Full Stack Developer
+1,1,1,0,0,0,0,0,1,Backend Developer
+1,1,1,0,0,1,0,0,1,Software Developer
+0,0,0,1,1,1,0,0,1,Frontend Developer
+0,0,0,1,1,1,1,0,1,Frontend Developer
+0,0,1,1,1,1,0,0,1,Full Stack Developer
+1,1,0,0,0,0,1,1,1,Java Developer
+1,1,0,0,0,1,0,0,1,Software Developer
+1,0,1,0,1,0,1,1,1,Data Scientist
+0,1,1,0,0,0,0,0,1,Java Developer
+1,1,1,0,1,0,1,0,1,Backend Developer
+1,0,1,1,0,0,0,0,1,Python Developer
+1,0,1,0,0,0,1,1,1,Data Scientist
+0,1,1,0,0,0,0,0,1,Python Developer
+0,1,0,1,1,1,0,0,1,Frontend Developer
+1,0,1,0,0,0,0,1,1,Python Developer
+1,0,1,0,0,0,0,0,1,Python Developer
+0,0,1,1,1,0,1,0,0,Full Stack Developer
+1,1,1,0,0,0,0,1,0,Backend Developer
+1,1,1,0,0,0,0,0,1,Backend Developer
+0,0,1,1,1,1,0,0,1,Full Stack Developer
+1,0,1,1,1,1,0,0,0,Full Stack Developer
+1,0,1,0,0,0,0,1,1,Data Analyst
+1,0,1,0,1,1,1,0,1,Python Developer
+0,0,1,1,1,1,0,1,1,Full Stack Developer
+0,1,1,0,0,0,0,1,1,Java Developer
+1,0,0,0,0,0,0,1,0,Data Analyst
+0,0,0,1,1,1,0,0,1,Frontend Developer
+0,0,0,1,1,1,0,0,1,Frontend Developer
+1,0,1,0,0,0,0,1,0,Data Analyst
+1,0,0,0,1,0,1,1,1,AI/ML Engineer
+1,1,1,1,0,0,0,0,0,Java Developer
+1,0,0,1,1,1,0,0,1,Frontend Developer
+1,1,1,0,1,0,1,0,1,Java Developer
+0,1,1,1,0,0,0,1,1,Java Developer
+0,0,0,1,1,1,1,0,1,Frontend Developer
+0,0,1,1,1,1,0,0,1,Full Stack Developer
+1,1,1,0,0,0,0,0,1,Backend Developer
+0,1,1,0,0,0,1,0,1,Java Developer
+0,1,1,0,0,0,0,0,1,Java Developer
+1,0,1,0,0,0,1,1,1,Data Scientist
+1,1,1,0,0,0,0,1,1,Backend Developer
+0,0,1,0,1,1,0,0,1,Python Developer
+1,1,1,0,0,1,0,0,1,Software Developer
+1,0,1,1,0,0,1,1,1,Data Scientist
+1,0,1,0,0,0,1,1,1,Data Scientist
+1,0,1,0,0,0,1,1,0,Python Developer
+1,1,1,1,1,1,1,1,0,Full Stack Developer
+1,0,0,1,1,1,0,0,0,Frontend Developer
+0,0,1,1,1,1,0,0,1,Full Stack Developer
+1,1,1,0,0,0,1,0,0,Backend Developer
+1,1,1,0,0,1,0,1,1,Software Developer
+1,0,1,1,0,0,1,1,1,Data Scientist
+1,0,0,0,0,0,1,1,1,AI/ML Engineer
+0,1,1,0,0,0,0,0,1,Java Developer
+1,1,1,1,0,1,0,0,1,Software Developer
+1,0,1,0,0,0,1,1,1,Data Analyst
+0,0,0,1,1,1,0,0,1,Frontend Developer
+1,0,0,0,0,0,1,1,1,Data Analyst
+1,0,1,0,0,1,0,0,1,Python Developer
+1,1,1,0,0,1,0,0,1,Software Developer
+1,1,1,0,0,0,1,0,1,Backend Developer
+0,1,1,1,1,1,1,0,1,Frontend Developer
+1,0,0,0,0,0,1,1,1,AI/ML Engineer
+0,0,1,1,1,1,0,0,0,Full Stack Developer
+0,0,1,1,1,1,1,0,1,Full Stack Developer
+0,1,1,0,0,1,0,0,1,Java Developer
+0,0,1,1,1,1,1,0,1,Full Stack Developer
+0,0,1,1,1,1,0,0,1,Full Stack Developer
+1,1,1,1,0,0,0,0,1,Java Developer
+1,1,1,0,0,1,0,0,0,Software Developer
+1,0,1,0,0,0,0,1,1,Data Analyst
+1,0,1,1,1,0,0,1,1,Data Scientist
+1,1,1,0,0,1,0,0,1,Software Developer
+1,0,1,1,1,0,0,1,0,Data Analyst
+1,1,1,1,1,1,0,0,1,Software Developer
+0,0,1,0,0,0,1,0,1,Data Scientist
+1,1,1,0,0,0,0,0,1,Backend Developer
+0,1,0,1,1,1,0,1,1,Frontend Developer
+1,0,0,0,0,0,0,1,0,Data Analyst
+1,0,1,1,0,0,1,1,1,Data Scientist
+1,1,1,0,0,0,1,1,1,Data Scientist
+0,1,0,0,0,0,1,1,1,AI/ML Engineer
+1,0,1,1,0,1,1,0,1,Software Developer
+1,0,1,1,0,0,0,0,1,Java Developer
+1,0,1,0,1,0,0,0,0,Python Developer
+1,0,1,1,0,0,0,1,1,Data Scientist
+0,1,1,1,0,1,0,0,1,Java Developer
+1,0,1,0,0,0,1,1,1,Data Scientist
+1,0,1,1,1,1,0,0,1,Full Stack Developer
+0,1,1,0,0,0,0,0,0,Java Developer
+0,1,1,0,0,0,0,1,1,Java Developer
+1,0,1,1,0,0,1,1,1,Data Scientist
+0,1,1,0,0,0,0,0,1,Java Developer
+1,0,0,0,0,0,1,1,1,AI/ML Engineer
+0,1,1,0,0,0,0,0,0,Java Developer
+1,0,1,0,0,0,0,0,1,Python Developer
+0,1,1,0,0,0,0,0,1,Java Developer
+0,1,1,0,0,1,1,1,0,Java Developer
+0,0,1,1,1,1,0,0,1,Full Stack Developer
+0,0,1,1,1,1,1,1,1,Full Stack Developer
+0,0,0,0,1,1,0,0,1,Frontend Developer
+1,0,0,0,0,0,1,1,1,AI/ML Engineer
+1,1,1,0,0,0,0,0,1,Backend Developer
+1,0,1,0,0,0,1,1,1,Data Scientist
+1,0,1,1,0,0,0,0,1,Python Developer
+1,1,1,0,0,0,0,1,1,Data Analyst
+1,0,0,0,0,1,1,1,1,AI/ML Engineer
+1,0,0,0,1,1,1,1,1,AI/ML Engineer
+1,0,1,0,0,0,0,1,1,Data Analyst
+1,1,1,0,0,1,0,0,1,Software Developer
+0,0,0,1,1,1,0,0,1,Frontend Developer
+0,1,1,0,0,1,0,0,1,Python Developer
+0,0,0,1,1,1,0,0,1,Frontend Developer
+1,0,1,0,0,0,1,1,1,Data Scientist
+1,0,0,0,0,0,1,1,1,AI/ML Engineer
+0,0,1,1,1,1,0,0,1,Full Stack Developer
+1,1,1,0,0,0,0,0,1,Backend Developer
+1,1,1,0,0,1,0,0,0,Software Developer
+1,1,1,1,0,1,0,0,1,Software Developer
+1,0,0,1,1,1,0,0,1,Frontend Developer
+1,0,1,0,0,1,0,0,1,Software Developer
+0,0,1,1,1,1,1,0,1,Full Stack Developer
+1,0,0,0,0,0,1,1,1,AI/ML Engineer
+1,0,1,0,0,0,1,1,0,Data Scientist
+1,1,1,0,0,1,1,0,1,Backend Developer
+1,0,0,0,1,0,1,1,0,AI/ML Engineer
+1,1,1,0,0,0,0,0,1,Backend Developer
+1,0,1,0,1,0,0,1,1,Data Analyst
+1,0,1,0,0,0,0,0,1,Python Developer
+1,0,1,0,0,0,1,1,1,Data Scientist
+1,0,1,0,0,0,0,0,1,Backend Developer
+0,0,1,1,1,1,0,0,1,Full Stack Developer
+0,0,1,1,1,1,0,0,1,Full Stack Developer
+1,1,1,1,0,1,0,1,1,Software Developer
+0,1,1,1,0,0,0,1,1,Java Developer
+1,1,1,0,1,0,0,0,1,Backend Developer
+1,1,1,1,0,1,0,1,1,Software Developer
+0,0,1,0,1,0,0,1,0,Data Analyst
+1,1,1,0,0,0,0,0,1,Java Developer
+1,0,1,0,0,0,0,1,1,Data Analyst
+0,0,0,1,0,1,0,0,1,Frontend Developer
+0,1,1,1,0,0,1,0,1,Backend Developer
+0,0,0,1,1,1,0,0,1,Frontend Developer
+1,0,0,0,0,1,1,1,1,AI/ML Engineer
+0,0,0,1,1,1,1,0,1,Frontend Developer
+0,0,1,1,1,1,0,1,1,Full Stack Developer
+1,0,1,1,1,1,0,1,0,Full Stack Developer
+1,1,1,0,0,0,0,1,1,Backend Developer
+1,0,1,0,0,0,1,1,0,Data Scientist
+1,1,1,0,1,0,0,0,0,Backend Developer
+1,0,1,0,0,1,1,1,1,Data Analyst
+0,1,1,0,1,0,0,0,1,Java Developer
+1,0,0,0,0,0,1,1,1,AI/ML Engineer
+1,0,0,0,0,0,1,1,1,AI/ML Engineer
+1,0,1,1,1,0,0,0,1,Python Developer
+0,0,1,0,0,0,0,0,1,Python Developer
+1,1,1,1,0,0,0,1,0,Python Developer
+1,0,1,0,1,0,0,0,1,Python Developer
+1,1,0,0,0,0,0,1,1,AI/ML Engineer
+1,1,0,0,0,0,1,1,1,AI/ML Engineer
+0,1,1,0,0,0,0,0,1,Java Developer
+1,0,1,0,1,0,0,0,1,Python Developer
+1,0,1,0,0,0,0,1,1,Data Analyst
+1,0,0,0,1,0,1,1,0,AI/ML Engineer
+1,0,0,1,1,1,0,0,1,Frontend Developer
+1,1,1,1,0,0,0,0,1,Java Developer
+0,0,0,1,1,1,1,0,1,Frontend Developer
+0,0,0,1,1,1,0,0,1,Frontend Developer
+1,1,1,0,0,1,0,0,0,Software Developer
+1,0,0,1,1,1,0,0,1,Frontend Developer
+0,1,1,0,0,1,0,0,1,Java Developer
+1,0,0,0,0,1,1,1,1,AI/ML Engineer
+1,0,1,0,0,0,1,0,0,Backend Developer
+1,0,0,0,0,1,1,1,1,AI/ML Engineer
+1,0,1,0,0,0,1,1,1,Data Analyst
+0,1,0,1,1,1,0,0,1,Frontend Developer
+1,1,1,0,0,0,0,0,1,Java Developer
+1,1,1,0,0,1,0,0,1,Software Developer
+1,0,1,0,0,1,0,1,1,Data Analyst
+1,1,1,0,0,0,1,1,0,Data Scientist
+1,0,1,1,1,1,0,0,0,Full Stack Developer
+1,0,1,0,0,0,0,1,1,Data Analyst
+1,1,1,0,0,0,1,1,1,Data Analyst
+1,0,1,1,0,0,1,1,1,Data Scientist
+1,1,1,0,0,1,0,0,1,Software Developer
+1,1,1,0,0,0,1,0,1,Backend Developer
+1,0,1,0,0,0,1,1,1,Data Scientist
+1,0,0,0,1,0,1,1,0,AI/ML Engineer
+1,1,1,0,0,0,0,0,1,Software Developer
+1,0,0,0,0,1,0,0,1,Python Developer
+1,0,0,0,0,1,1,1,1,AI/ML Engineer
+1,0,1,0,1,0,0,0,1,Python Developer
+1,0,0,0,0,0,1,1,1,AI/ML Engineer
+0,0,0,1,1,1,0,0,1,Frontend Developer
+0,0,0,1,1,1,1,0,1,Frontend Developer
+1,0,1,1,1,0,0,0,1,Full Stack Developer
+0,1,1,0,0,0,0,0,0,Java Developer
+1,0,1,0,0,0,0,1,1,Data Analyst
+1,1,1,0,0,1,0,0,1,Software Developer
+0,0,0,1,1,1,0,0,1,Frontend Developer
+1,0,1,0,1,1,0,1,1,Data Analyst
+1,1,1,0,0,0,0,0,1,Backend Developer
+1,0,1,0,0,0,1,1,1,Data Scientist
+0,0,0,1,1,1,0,0,0,Frontend Developer
+1,0,1,0,0,0,1,0,1,Data Scientist
+0,0,1,1,1,1,0,0,1,Full Stack Developer
+1,0,1,0,0,0,0,1,0,Data Analyst
+0,0,1,0,1,1,0,0,1,Full Stack Developer
+0,1,1,0,0,1,0,0,1,Java Developer
+0,0,0,1,1,1,0,0,1,Frontend Developer
+0,0,0,1,1,1,0,1,1,Frontend Developer
+1,1,1,0,1,1,0,0,0,Backend Developer
+1,0,1,0,0,1,1,1,1,Data Scientist
+1,1,1,1,0,1,0,1,1,Software Developer
+1,0,1,1,1,0,1,1,1,Data Scientist
+1,1,1,0,0,1,0,0,1,Backend Developer
+0,0,0,0,0,0,1,1,1,AI/ML Engineer
+1,1,1,0,0,0,0,0,1,Backend Developer
+1,0,1,0,0,0,1,1,1,Data Scientist
+1,1,1,0,0,0,0,0,1,Backend Developer
+0,0,0,1,1,0,0,0,1,Frontend Developer
+0,1,1,0,0,0,0,0,0,Java Developer
+1,0,1,0,0,1,1,1,1,Data Scientist
+0,0,1,1,1,1,0,1,1,Full Stack Developer
+1,1,0,0,0,1,1,0,1,Software Developer
+0,1,0,0,0,1,1,0,0,Frontend Developer
+0,0,0,1,1,0,0,0,1,Frontend Developer
+0,0,1,0,0,0,1,1,0,Data Scientist
+1,0,0,0,0,0,1,1,1,AI/ML Engineer
+1,0,1,0,0,0,0,0,0,Python Developer
+0,0,0,1,1,1,1,1,0,Frontend Developer
+1,0,1,1,1,1,0,1,1,Frontend Developer
+1,0,1,0,1,0,1,1,1,AI/ML Engineer
+1,0,1,0,1,0,0,1,1,Data Analyst
+0,1,1,0,0,0,0,0,1,Backend Developer
+0,0,1,1,1,1,1,1,0,Full Stack Developer
+1,0,1,0,1,0,0,1,1,Data Analyst
+1,0,1,0,0,0,0,1,1,Data Analyst
+0,0,1,1,1,1,0,0,1,Full Stack Developer
+0,0,0,1,1,1,0,0,1,Frontend Developer
+0,0,1,0,0,0,0,1,1,Data Analyst
+1,1,1,0,0,1,0,0,1,Software Developer
+1,0,0,0,0,0,1,1,1,AI/ML Engineer
+1,1,1,0,0,0,0,0,1,Backend Developer
+1,1,1,0,0,0,1,0,1,Backend Developer
+1,1,1,0,0,0,0,0,1,Backend Developer
+1,1,1,0,0,1,0,0,0,Software Developer
+1,0,1,0,0,0,0,0,1,Python Developer
+1,1,1,0,0,0,0,0,1,Backend Developer
+1,0,1,1,0,0,0,1,1,Data Analyst
+0,1,1,0,0,0,0,0,0,Java Developer
+1,0,1,1,1,1,0,0,1,Full Stack Developer
+1,0,0,1,1,1,0,0,1,Frontend Developer
+0,1,1,0,0,0,0,0,1,Java Developer
+1,1,1,1,0,0,0,0,1,Java Developer
+1,1,1,0,0,1,0,0,1,Java Developer
+0,0,1,1,1,1,0,0,1,Full Stack Developer
+1,0,1,0,0,0,1,1,0,Data Analyst
+1,1,0,0,0,0,1,1,1,AI/ML Engineer
+0,0,0,1,1,1,1,0,1,Frontend Developer
+0,0,0,1,1,1,0,1,0,Frontend Developer
+1,1,1,0,0,0,0,1,1,Backend Developer
+1,1,1,0,1,0,1,1,1,Data Scientist
+0,0,0,1,1,1,0,0,1,Frontend Developer
+0,1,0,1,1,1,0,0,1,Frontend Developer
+0,0,1,1,1,1,1,1,1,Full Stack Developer
+1,1,1,0,0,0,0,0,1,Backend Developer
+1,0,1,0,0,1,0,0,0,Python Developer
+1,0,1,0,0,1,1,0,1,Python Developer
+1,1,1,0,0,0,1,1,0,Data Scientist
+1,0,1,0,0,0,0,0,1,Python Developer
+1,0,1,0,1,0,1,1,1,Data Scientist
+1,0,1,0,0,0,0,1,1,Data Analyst
+0,0,1,1,1,1,0,0,1,Full Stack Developer
+1,0,1,0,0,0,0,1,1,Data Analyst
+1,1,1,1,0,1,1,0,1,Software Developer
+1,1,0,0,1,0,0,0,1,Backend Developer
+0,0,1,1,1,1,0,0,1,Full Stack Developer
+0,0,1,0,0,0,1,1,0,Data Scientist
+1,0,1,1,1,1,0,0,1,Full Stack Developer
+0,0,0,1,1,1,1,0,1,Frontend Developer
+1,0,1,0,0,0,1,1,1,Data Scientist
+0,1,1,0,0,0,0,0,0,Java Developer
+1,0,1,0,0,0,0,1,0,Python Developer
+1,0,1,1,1,1,1,0,1,Full Stack Developer
+0,1,1,0,0,0,0,1,1,Java Developer
+0,0,1,1,1,1,0,0,1,Full Stack Developer
+1,1,1,0,0,1,0,0,0,Software Developer
+1,0,1,0,1,0,0,0,1,Python Developer
+1,1,1,1,0,0,0,0,1,Backend Developer
+0,1,1,1,1,1,0,0,1,Frontend Developer
+0,0,1,1,1,1,0,0,1,Full Stack Developer
+1,1,1,0,0,1,0,0,1,Software Developer
+1,1,1,0,0,0,0,0,1,Backend Developer
+0,1,1,0,0,0,0,0,0,Java Developer
+1,1,1,1,0,1,0,0,1,Backend Developer
+0,0,1,1,1,1,0,0,1,Full Stack Developer
+1,0,1,0,0,0,1,1,1,Data Scientist
+0,0,0,1,1,1,0,0,1,Frontend Developer
+1,1,1,0,0,1,0,1,1,Software Developer
+0,0,1,0,0,1,0,0,0,Software Developer
+1,0,0,1,0,0,1,1,1,AI/ML Engineer
+1,0,1,0,1,0,0,0,0,Python Developer
+1,0,1,0,0,1,0,0,1,Software Developer
+0,0,1,1,1,1,0,0,1,Full Stack Developer
+1,0,1,0,0,0,1,0,0,Python Developer
+1,0,1,0,0,0,1,1,1,Data Scientist
+1,0,1,0,0,0,0,0,1,Data Analyst
+1,1,1,0,0,1,1,0,1,Software Developer
+1,0,1,1,0,0,0,1,1,Data Analyst
+1,1,1,0,1,1,1,1,1,Software Developer
+1,1,1,0,0,0,0,1,0,Python Developer
+1,0,1,0,0,0,1,1,0,Data Scientist
+0,0,1,1,1,1,1,0,1,Frontend Developer
+1,1,1,0,1,0,1,1,1,Backend Developer
+1,1,1,0,0,0,1,1,0,Data Scientist
+1,0,1,0,0,0,0,1,0,Data Analyst
+1,0,0,1,0,0,1,1,0,AI/ML Engineer
+1,0,1,0,0,0,1,0,1,Python Developer
+0,0,1,1,0,1,0,0,1,Full Stack Developer
+0,0,0,1,1,1,0,0,1,Full Stack Developer
+0,1,1,0,0,0,0,0,1,Java Developer
+0,0,1,0,1,1,0,1,0,Full Stack Developer
+1,0,1,0,0,0,1,1,1,Data Scientist
+1,1,1,0,0,0,1,0,1,Backend Developer
+1,0,0,0,0,0,1,1,1,AI/ML Engineer
+0,0,1,1,1,0,0,0,1,Frontend Developer
+1,1,1,0,0,1,0,0,1,Python Developer
+1,1,1,0,0,0,0,0,1,Backend Developer
+1,0,1,1,0,0,1,1,1,Data Scientist
+0,1,1,1,1,1,1,0,1,Full Stack Developer
+0,0,0,1,1,1,0,0,1,Frontend Developer
+1,0,1,0,0,0,1,1,1,Data Scientist
+1,0,1,1,1,0,0,0,0,Backend Developer
+1,0,1,0,0,0,1,1,1,Data Scientist
+1,0,0,0,0,0,1,1,1,AI/ML Engineer
+0,1,1,0,0,0,0,0,1,Java Developer
+1,1,1,0,0,1,0,0,1,Software Developer
+1,0,1,0,0,0,1,1,1,Data Scientist
+0,0,1,1,1,1,0,0,1,Full Stack Developer
+0,0,0,1,1,1,0,0,1,Frontend Developer
+1,0,0,0,0,0,1,1,0,AI/ML Engineer
+0,0,1,1,1,1,0,0,1,Full Stack Developer
+1,0,1,1,1,1,1,1,1,Full Stack Developer
+1,0,1,0,1,0,0,0,1,Python Developer
+1,0,0,0,1,0,1,1,0,AI/ML Engineer
+1,1,1,0,0,1,0,0,1,Software Developer
+0,0,0,1,1,1,0,1,1,Frontend Developer
+1,1,1,0,0,1,1,0,0,Software Developer
+0,1,1,0,0,0,0,0,0,Backend Developer
+1,0,1,0,0,0,0,0,1,Python Developer
+0,1,0,1,1,1,0,0,1,Frontend Developer
+1,1,1,0,0,0,1,0,1,Backend Developer
+1,1,1,0,0,0,0,1,1,Backend Developer
+0,1,1,0,0,0,0,1,0,Java Developer
+0,1,1,0,0,0,0,0,1,Java Developer
+1,0,1,0,1,0,0,1,1,Data Analyst
+1,0,0,1,0,0,1,1,1,Data Scientist
+1,1,1,0,0,1,1,0,1,Software Developer
+0,1,1,0,0,0,0,0,1,Java Developer
+1,1,1,0,0,0,0,0,1,Backend Developer
+1,0,0,1,0,1,1,1,0,AI/ML Engineer
+0,1,1,0,0,0,1,1,1,Java Developer
+1,0,1,1,0,0,1,1,1,Data Scientist
+1,0,1,0,0,0,0,1,0,Data Analyst
+0,1,1,0,0,0,0,0,0,Java Developer
+1,1,1,0,0,0,0,0,1,Data Analyst
+0,0,0,1,1,1,0,0,1,Frontend Developer
+1,1,1,0,0,0,0,0,1,Backend Developer
+1,1,1,0,0,0,0,0,1,Backend Developer
+1,1,1,0,0,1,0,0,1,Software Developer
+1,0,0,0,0,0,1,1,0,AI/ML Engineer
+1,1,1,1,1,0,0,0,1,Backend Developer
+1,0,1,0,0,0,1,1,1,Data Analyst
+1,1,0,0,0,0,1,1,1,AI/ML Engineer
+1,0,1,0,0,0,1,1,1,Data Scientist
+0,1,1,0,0,0,0,0,1,Java Developer
+1,0,1,1,0,1,1,1,0,Data Scientist
+0,0,1,1,1,1,1,0,0,Full Stack Developer
+1,1,1,0,1,0,1,1,1,Data Analyst
+1,1,1,0,0,1,0,1,1,Data Analyst
+1,1,1,0,0,0,0,0,1,Backend Developer
+0,1,1,0,1,0,0,1,0,Java Developer
+1,0,0,1,0,0,1,1,1,AI/ML Engineer
+1,0,1,0,0,0,1,1,0,Data Analyst
+1,0,0,0,1,0,1,1,1,AI/ML Engineer
+0,1,1,0,1,1,1,0,1,Java Developer
+1,0,1,1,0,0,0,0,1,Python Developer
+1,1,1,0,0,0,0,0,0,Backend Developer
+1,1,1,0,0,1,0,0,0,Software Developer
+0,1,0,0,0,1,1,1,1,AI/ML Engineer
+1,1,1,0,0,1,0,0,1,Software Developer
+0,0,1,0,1,0,1,0,1,Full Stack Developer
+1,0,1,0,0,0,0,1,0,AI/ML Engineer
+0,0,0,0,1,1,0,0,0,Frontend Developer
+1,1,1,0,0,1,0,0,1,Software Developer
+1,0,1,0,0,0,0,1,0,Data Analyst
+0,0,1,1,1,1,0,0,0,Full Stack Developer
+1,0,1,0,1,0,1,0,0,Data Scientist
+1,1,1,0,0,0,1,0,1,Backend Developer
+1,0,1,1,0,0,1,1,1,Data Scientist
+0,0,0,0,1,1,0,0,1,Frontend Developer
+1,0,1,0,0,0,1,1,1,AI/ML Engineer
+1,0,1,0,0,0,0,1,1,Python Developer
+1,0,1,0,0,0,1,1,1,Data Analyst
+1,1,1,0,0,0,1,1,1,Data Scientist
+1,1,1,0,1,0,0,0,1,Backend Developer
+0,1,1,0,1,1,0,0,1,Java Developer
+1,0,1,0,0,0,0,1,1,Data Analyst
+1,1,1,0,0,1,0,0,1,Backend Developer
+0,0,1,1,0,1,1,1,1,Full Stack Developer
+1,0,1,0,0,1,0,0,0,Software Developer
+1,1,1,0,0,1,0,0,1,Software Developer
+1,1,0,0,0,0,1,0,1,AI/ML Engineer
+1,1,1,0,1,1,0,0,1,Software Developer
+1,1,1,0,0,0,0,0,1,Backend Developer
+1,0,1,0,0,0,0,1,0,Data Analyst
+1,1,1,0,0,1,0,0,1,Backend Developer
+1,1,1,0,0,0,0,0,1,Backend Developer
+1,0,1,0,0,0,1,1,1,Data Scientist
+0,1,1,0,0,0,0,0,1,Java Developer
+1,0,1,0,0,0,0,1,1,Data Scientist
+1,1,0,0,0,0,1,1,1,AI/ML Engineer
+1,1,1,0,0,0,1,1,0,Data Scientist
+0,1,1,0,0,0,0,1,1,Backend Developer
+0,0,0,1,1,1,0,0,1,Frontend Developer
+0,0,1,1,1,1,0,0,1,Full Stack Developer
+1,1,1,1,0,0,1,0,1,Backend Developer
+1,1,1,1,0,0,0,0,1,Backend Developer
+1,1,1,0,0,1,0,0,1,Software Developer
+1,0,0,1,0,0,0,0,1,Python Developer
+0,0,1,1,1,1,1,0,1,Full Stack Developer
+1,1,1,0,0,0,1,0,1,Backend Developer
+1,1,0,0,0,1,0,0,1,Software Developer
+1,0,1,1,0,0,0,1,1,Data Analyst
+1,0,0,0,0,0,1,1,1,AI/ML Engineer
+1,0,1,0,0,0,0,0,1,Backend Developer
+0,0,0,1,1,1,0,0,1,Frontend Developer
+1,1,1,1,0,0,1,1,1,Data Scientist
+1,1,1,1,0,1,0,0,0,Software Developer
+1,0,1,0,1,0,0,0,1,Python Developer
+1,0,1,0,0,0,1,1,1,Data Scientist
+1,0,1,0,0,0,1,1,0,Data Scientist
+1,0,0,0,0,0,1,1,1,AI/ML Engineer
+0,0,0,1,1,1,0,0,0,Frontend Developer
+0,1,1,1,0,0,0,0,1,Java Developer
+1,0,1,0,0,0,0,1,1,Data Analyst
+0,1,1,0,0,0,0,0,0,Java Developer
+1,1,0,0,0,0,1,1,1,AI/ML Engineer
+0,1,0,1,1,1,0,0,1,Full Stack Developer
+1,0,1,1,1,0,1,0,0,Full Stack Developer
+1,0,0,1,0,0,1,1,0,AI/ML Engineer
+0,1,1,0,0,0,0,0,0,Java Developer
+1,1,1,0,0,0,0,1,1,Data Analyst
+1,1,1,0,0,0,0,0,1,Backend Developer
+1,1,0,1,1,1,0,0,1,Frontend Developer
+1,1,1,0,1,0,1,0,1,Backend Developer
+1,0,1,0,0,0,0,1,1,Python Developer
+1,0,0,0,0,0,1,1,1,AI/ML Engineer
+0,1,1,0,1,1,1,0,1,Software Developer
+1,0,1,0,1,0,0,0,1,Python Developer
+0,0,1,1,1,1,0,0,0,Full Stack Developer
+0,1,1,1,1,0,0,0,1,Frontend Developer
+1,1,1,0,0,1,1,1,1,Software Developer
+1,1,1,0,0,1,0,1,1,Backend Developer
+1,0,1,1,0,0,1,1,1,Data Scientist
+0,0,1,1,1,1,1,0,1,Full Stack Developer
+1,0,1,1,1,1,1,0,1,Full Stack Developer
+1,1,1,1,0,0,0,0,0,Backend Developer
+1,1,1,0,0,0,0,0,1,Backend Developer
+1,0,1,0,0,0,0,1,1,Data Analyst
+1,1,1,0,0,0,0,1,1,Python Developer
+1,1,1,1,0,0,0,0,1,Python Developer
+1,1,1,0,0,0,0,0,1,Backend Developer
+0,0,0,1,1,1,1,0,0,Frontend Developer
+1,0,1,0,0,0,1,1,1,Data Scientist
+1,0,1,0,0,1,1,1,0,Data Scientist
+0,1,0,1,1,1,0,0,1,Full Stack Developer
+1,1,1,1,0,0,0,0,1,Backend Developer
+0,1,1,0,0,0,0,0,1,Java Developer
+0,0,1,0,0,0,0,1,1,Data Analyst
+1,1,0,0,1,0,0,0,1,Backend Developer
+1,0,1,0,0,0,0,1,1,Data Analyst
+1,1,1,0,0,0,0,0,1,Backend Developer
+0,1,1,0,1,1,0,0,1,Java Developer
+0,1,1,0,0,0,0,0,0,Java Developer
+1,0,0,0,1,0,1,1,0,Data Scientist
+1,0,0,0,0,0,0,1,1,AI/ML Engineer
+1,0,0,0,0,0,1,1,1,AI/ML Engineer
+1,1,1,0,0,1,0,0,0,Software Developer
+1,1,1,0,0,1,0,0,0,Software Developer
+1,0,0,1,1,1,0,0,1,Frontend Developer
+1,1,1,0,1,0,0,1,1,Data Analyst
+1,0,0,0,0,0,1,1,1,AI/ML Engineer
+1,0,0,0,1,0,0,0,1,Python Developer
+1,1,1,1,0,1,0,0,1,Software Developer
+1,0,1,1,0,1,1,1,1,Data Scientist
+1,1,1,0,0,1,0,0,1,Software Developer
+1,1,1,0,0,0,0,0,1,Backend Developer
+1,0,1,0,1,0,1,1,0,AI/ML Engineer
+0,0,0,1,1,1,1,0,1,Frontend Developer
+1,0,0,0,0,0,1,1,1,AI/ML Engineer
+1,0,1,0,0,0,0,0,1,Python Developer
+1,0,1,0,0,0,0,0,0,Python Developer
+0,1,0,1,1,1,0,0,1,Frontend Developer
+1,1,1,0,0,1,0,1,0,Software Developer
+0,0,1,1,0,0,0,0,1,Java Developer
+1,1,1,0,0,0,1,1,1,Data Scientist
+0,0,1,0,0,0,1,1,1,AI/ML Engineer
+1,0,1,0,0,0,0,0,1,Python Developer
+1,0,0,1,0,0,1,1,0,AI/ML Engineer
+0,0,0,1,1,1,0,1,1,Frontend Developer
+0,1,0,1,1,1,0,0,0,Full Stack Developer
+0,1,0,1,1,1,0,1,1,Frontend Developer
+1,0,1,0,0,0,1,1,1,Data Scientist
+1,0,0,0,0,0,1,1,0,AI/ML Engineer
+0,1,1,1,1,1,0,0,1,Full Stack Developer
+0,0,1,1,1,1,0,0,0,Full Stack Developer
+1,1,1,0,0,0,0,1,1,Data Analyst
+1,0,1,0,0,0,1,1,1,Data Analyst
+1,1,1,0,0,0,1,0,1,Software Developer
+0,0,1,1,1,1,0,0,1,Full Stack Developer
+0,1,1,0,0,0,0,0,1,Java Developer
+0,1,0,0,0,0,0,0,1,Java Developer
+1,0,0,0,1,0,1,1,1,AI/ML Engineer
+0,1,1,1,0,0,0,0,1,Backend Developer
+0,1,1,1,1,1,0,0,1,Full Stack Developer
+1,1,1,0,0,1,1,0,1,Software Developer
+1,0,1,0,0,0,0,0,1,Python Developer
+1,1,1,0,0,1,0,0,1,Software Developer
+1,0,1,0,0,0,1,1,1,Data Scientist
+1,0,1,0,0,1,0,0,1,Python Developer
+1,1,1,0,0,0,0,0,0,Backend Developer
+1,0,1,0,0,1,0,1,1,Software Developer
+1,0,1,1,0,0,0,0,0,Python Developer
+0,0,1,1,1,1,1,0,1,Frontend Developer
+0,0,1,1,1,1,0,0,1,Full Stack Developer
+0,1,1,1,1,1,0,0,1,Full Stack Developer
+0,1,0,0,0,1,1,0,1,Java Developer
+0,0,0,0,1,1,0,0,1,Frontend Developer
+1,0,0,1,1,1,0,1,1,Frontend Developer
+1,0,1,0,0,0,1,1,1,Data Scientist
+1,0,1,0,0,0,0,1,1,Python Developer
+0,1,1,0,0,0,0,0,1,Java Developer
+1,0,1,0,1,0,1,1,1,Data Scientist
+0,1,1,1,1,1,1,0,1,Full Stack Developer
+1,0,1,1,1,0,0,0,1,Full Stack Developer
+1,0,1,0,0,0,0,0,1,Python Developer
+1,0,1,0,0,0,0,1,1,Data Analyst
+1,0,1,0,1,0,0,1,1,Data Analyst
+0,1,1,0,0,1,0,0,1,Java Developer
+1,0,0,0,1,0,0,0,1,AI/ML Engineer
+0,0,1,1,1,1,0,0,1,Full Stack Developer
+1,0,0,1,0,0,1,1,1,AI/ML Engineer
+1,0,1,0,0,0,0,0,0,Backend Developer
+0,0,1,1,1,1,0,0,1,Full Stack Developer
+1,1,1,0,1,0,1,1,0,Data Scientist
+1,0,1,0,0,1,1,1,1,Data Scientist
+0,0,1,1,0,0,0,1,0,Data Analyst
+1,0,0,0,1,0,1,1,1,AI/ML Engineer
+0,0,1,0,0,1,0,0,0,Python Developer
+1,0,0,0,0,1,1,0,1,Python Developer
+0,0,1,1,1,1,0,0,1,Full Stack Developer

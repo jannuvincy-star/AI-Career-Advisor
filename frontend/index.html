@@ -1,0 +1,692 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>AI Career Advisor</title>
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #f4f7fb;
+            color: #1f2937;
+        }
+
+        .container {
+            width: 92%;
+            max-width: 1000px;
+            margin: 40px auto;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .header h1 {
+            font-size: 38px;
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            color: #6b7280;
+            font-size: 17px;
+        }
+
+        .card {
+            background: white;
+            padding: 25px;
+            border-radius: 16px;
+            margin-bottom: 22px;
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
+        }
+
+        .card h2 {
+            margin-top: 0;
+            margin-bottom: 20px;
+        }
+
+        .skills {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 12px;
+        }
+
+        .skill {
+            border: 1px solid #d1d5db;
+            padding: 14px;
+            border-radius: 10px;
+            cursor: pointer;
+        }
+
+        .skill:hover {
+            background: #f3f4f6;
+        }
+
+        .skill input {
+            margin-right: 8px;
+        }
+
+        button {
+            width: 100%;
+            margin-top: 22px;
+            padding: 14px;
+            border: none;
+            border-radius: 10px;
+            background: #111827;
+            color: white;
+            font-size: 17px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            opacity: 0.9;
+        }
+
+        .recommendation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px 18px;
+    border: 1px solid #e5e7eb;
+    border-radius: 10px;
+    margin-bottom: 12px;
+    gap: 30px;
+}
+
+.career-name {
+    font-weight: bold;
+    font-size: 17px;
+    flex: 1;
+}
+
+.confidence {
+    font-weight: bold;
+    min-width: 70px;
+    text-align: right;
+}
+        .skill-badge {
+            display: inline-block;
+            padding: 8px 12px;
+            margin: 5px;
+            border-radius: 20px;
+            background: #eef2ff;
+        }
+
+        .missing {
+            background: #fff7ed;
+        }
+
+        .readiness-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            width: 100%;
+            gap: 20px;
+        }
+
+        .readiness-text {
+            font-size: 16px;
+        }
+
+        .score {
+            font-size: 24px;
+            font-weight: bold;
+            white-space: nowrap;
+            margin-left: auto;
+        }
+
+        .progress-container {
+            width: 100%;
+            height: 18px;
+            background: #e5e7eb;
+            border-radius: 20px;
+            overflow: hidden;
+            margin-top: 15px;
+        }
+
+        .progress-bar {
+            width: 0%;
+            height: 100%;
+            background: #111827;
+            border-radius: 20px;
+            transition: width 0.6s ease;
+        }
+
+        .roadmap li,
+        .projects li {
+            margin: 12px 0;
+        }
+
+        .hidden {
+            display: none;
+        }
+
+        .loading {
+            text-align: center;
+            font-size: 18px;
+            padding: 20px;
+        }
+
+        .error {
+            color: #b91c1c;
+            text-align: center;
+            padding: 15px;
+        }
+
+        @media (max-width: 700px) {
+            .skills {
+                grid-template-columns: 1fr 1fr;
+            }
+
+            .header h1 {
+                font-size: 28px;
+            }
+        }
+
+        @media (max-width: 450px) {
+            .skills {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+
+
+<body>
+
+    <div class="container">
+
+        <!-- Header -->
+        <div class="header">
+            <h1>🤖 AI Career Advisor</h1>
+            <p>Discover career paths based on your skills</p>
+        </div>
+
+
+        <!-- Skills -->
+        <div class="card">
+
+            <h2>🧠 Select Your Skills</h2>
+
+            <div class="skills">
+
+                <label class="skill">
+                    <input type="checkbox" value="python">
+                    Python
+                </label>
+
+                <label class="skill">
+                    <input type="checkbox" value="java">
+                    Java
+                </label>
+
+                <label class="skill">
+                    <input type="checkbox" value="sql">
+                    SQL
+                </label>
+
+                <label class="skill">
+                    <input type="checkbox" value="html">
+                    HTML
+                </label>
+
+                <label class="skill">
+                    <input type="checkbox" value="css">
+                    CSS
+                </label>
+
+                <label class="skill">
+                    <input type="checkbox" value="javascript">
+                    JavaScript
+                </label>
+
+                <label class="skill">
+                    <input type="checkbox" value="ml">
+                    Machine Learning
+                </label>
+
+                <label class="skill">
+                    <input type="checkbox" value="statistics">
+                    Statistics
+                </label>
+
+                <label class="skill">
+                    <input type="checkbox" value="communication">
+                    Communication
+                </label>
+
+            </div>
+
+            <button onclick="predictCareer()">
+                Analyze My Career 🚀
+            </button>
+
+        </div>
+
+
+        <!-- Loading -->
+        <div id="loading" class="loading hidden">
+            🤖 Analyzing your skills...
+        </div>
+
+
+        <!-- Results -->
+        <div id="results" class="hidden">
+
+            <!-- Career Recommendations -->
+            <div class="card">
+
+                <h2>🎯 Career Recommendations</h2>
+
+                <div id="recommendations"></div>
+
+            </div>
+
+
+            <!-- Skill Gap -->
+            <div class="card">
+
+                <h2>📊 Skill Gap Analysis</h2>
+
+                <p>
+                    <b>Recommended Career:</b>
+                    <span id="targetCareer"></span>
+                </p>
+
+                <br>
+
+                <p>
+                    <b>Your Skills</b>
+                </p>
+
+                <div id="yourSkills"></div>
+
+                <br>
+
+                <p>
+                    <b>Skills to Improve</b>
+                </p>
+
+                <div id="missingSkills"></div>
+
+            </div>
+
+
+            <!-- Career Readiness -->
+            <div class="card">
+
+                <h2>📈 Career Readiness</h2>
+
+                <div class="readiness-header">
+
+                    <div class="readiness-text">
+                        Readiness for:
+                        <strong id="readinessCareer"></strong>
+                    </div>
+
+                    <div
+                        id="readinessScore"
+                        class="score">
+                    </div>
+
+                </div>
+
+                <div class="progress-container">
+
+                    <div
+                        id="progressBar"
+                        class="progress-bar">
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <!-- Learning Roadmap -->
+            <div class="card">
+
+                <h2>🎯 Personalized Learning Roadmap</h2>
+
+                <p>
+                    <b>Target:</b>
+                    <span id="roadmapCareer"></span>
+                </p>
+
+                <ol
+                    id="roadmap"
+                    class="roadmap">
+                </ol>
+
+            </div>
+
+
+            <!-- Recommended Projects -->
+            <div class="card">
+
+                <h2>🚀 Recommended Projects</h2>
+
+                <ul
+                    id="projects"
+                    class="projects">
+                </ul>
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <script>
+
+        async function predictCareer() {
+
+            const skills = [
+                "python",
+                "java",
+                "sql",
+                "html",
+                "css",
+                "javascript",
+                "ml",
+                "statistics",
+                "communication"
+            ];
+
+
+            // Create input object
+            const data = {};
+
+
+            skills.forEach(skill => {
+
+                const checkbox =
+                    document.querySelector(
+                        `input[value="${skill}"]`
+                    );
+
+                data[skill] =
+                    checkbox.checked ? 1 : 0;
+
+            });
+
+
+            // Show loading
+            document
+                .getElementById("results")
+                .classList.add("hidden");
+
+            document
+                .getElementById("loading")
+                .classList.remove("hidden");
+
+
+            try {
+
+                // Send request to FastAPI
+                const response =
+                    await fetch(
+                        "/predict",
+                        {
+                            method: "POST",
+
+                            headers: {
+                                "Content-Type":
+                                    "application/json"
+                            },
+
+                            body:
+                                JSON.stringify(data)
+                        }
+                    );
+
+
+                if (!response.ok) {
+
+                    const errorText =
+                        await response.text();
+
+                    throw new Error(errorText);
+
+                }
+
+
+                const result =
+                    await response.json();
+
+
+                // ==========================================
+                // CAREER RECOMMENDATIONS
+                // ==========================================
+
+                const recommendations =
+                    document.getElementById(
+                        "recommendations"
+                    );
+
+                recommendations.innerHTML = "";
+
+
+                result.recommendations.forEach((item, index) => {
+
+    recommendations.innerHTML += `
+        <div class="recommendation">
+
+            <span class="career-name">
+                ${index + 1}. ${item.career}
+            </span>
+
+            <span class="confidence">
+                ${item.confidence}%
+            </span>
+
+        </div>
+    `;
+
+});
+
+
+                // ==========================================
+                // SKILL ANALYSIS
+                // ==========================================
+
+                const career =
+                    result.skill_analysis.career;
+
+
+                document.getElementById(
+                    "targetCareer"
+                ).textContent = career;
+
+
+                document.getElementById(
+                    "roadmapCareer"
+                ).textContent = career;
+
+
+                // Your skills
+                const yourSkills =
+                    document.getElementById(
+                        "yourSkills"
+                    );
+
+                yourSkills.innerHTML = "";
+
+
+                if (
+                    result.skill_analysis
+                        .your_skills.length === 0
+                ) {
+
+                    yourSkills.innerHTML =
+                        "<span>No skills selected</span>";
+
+                } else {
+
+                    result.skill_analysis
+                        .your_skills
+                        .forEach(skill => {
+
+                            yourSkills.innerHTML += `
+                                <span class="skill-badge">
+                                    ✓ ${skill}
+                                </span>
+                            `;
+
+                        });
+
+                }
+
+
+                // Missing skills
+                const missingSkills =
+                    document.getElementById(
+                        "missingSkills"
+                    );
+
+                missingSkills.innerHTML = "";
+
+
+                if (
+                    result.skill_analysis
+                        .missing_skills.length === 0
+                ) {
+
+                    missingSkills.innerHTML = `
+                        <span class="skill-badge">
+                            🎉 All required tracked
+                            skills selected
+                        </span>
+                    `;
+
+                } else {
+
+                    result.skill_analysis
+                        .missing_skills
+                        .forEach(skill => {
+
+                            missingSkills.innerHTML += `
+                                <span class="skill-badge missing">
+                                    → ${skill}
+                                </span>
+                            `;
+
+                        });
+
+                }
+
+
+                // ==========================================
+                // CAREER READINESS
+                // ==========================================
+
+                const readiness =
+                    result.skill_analysis
+                        .readiness_score;
+
+
+                document.getElementById(
+                    "readinessCareer"
+                ).textContent = career;
+
+
+                document.getElementById(
+                    "readinessScore"
+                ).textContent =
+                    `${readiness}%`;
+
+
+                document.getElementById(
+                    "progressBar"
+                ).style.width =
+                    `${readiness}%`;
+
+
+                // ==========================================
+                // LEARNING ROADMAP
+                // ==========================================
+
+                const roadmap =
+                    document.getElementById(
+                        "roadmap"
+                    );
+
+                roadmap.innerHTML = "";
+
+
+                result.learning_roadmap
+                    .forEach(step => {
+
+                        roadmap.innerHTML += `
+                            <li>${step}</li>
+                        `;
+
+                    });
+
+
+                // ==========================================
+                // PROJECT SUGGESTIONS
+                // ==========================================
+
+                const projects =
+                    document.getElementById(
+                        "projects"
+                    );
+
+                projects.innerHTML = "";
+
+
+                result.project_suggestions
+                    .forEach(project => {
+
+                        projects.innerHTML += `
+                            <li>${project}</li>
+                        `;
+
+                    });
+
+
+                // Show results
+                document
+                    .getElementById("loading")
+                    .classList.add("hidden");
+
+                document
+                    .getElementById("results")
+                    .classList.remove("hidden");
+
+
+            } catch (error) {
+
+                console.error(
+                    "Prediction error:",
+                    error
+                );
+
+                document
+                    .getElementById("loading")
+                    .classList.add("hidden");
+
+                alert(
+                    "Something went wrong. " +
+                    "Check the FastAPI terminal."
+                );
+
+            }
+
+        }
+
+    </script>
+
+</body>
+
+</html>
